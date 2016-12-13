@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Lab-3 Ebay_soap service">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Lab-3_Ebay_soap_srvice"/>
+        <property name="java-output-path" value="/Lab-3 Ebay_soap service/build/classes"/>
+    </wb-module>
+</project-modules>

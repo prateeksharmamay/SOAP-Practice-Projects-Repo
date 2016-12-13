@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/service/JDBCConnector.java=UTF-8
+encoding//src/service/JDBCConnectorService.java=UTF-8
+encoding//src/service/JDBCConnectorServiceLocator.java=UTF-8
+encoding//src/service/JDBCConnectorSoapBindingStub.java=UTF-8
